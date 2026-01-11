@@ -1,8 +1,7 @@
 # Keputusan-Menggunakan-Metode-Fuzzy-Mandani-(The Bontot)
 Anggota :
-Ruhfaidah Shirotul Akhiroh (103132400019)
-
-Azizatul Ainy (103132400030)
+1) Ruhfaidah Shirotul Akhiroh (103132400019)
+2) Azizatul Ainy (103132400030)
 
 Fuzzy adalah sebuah logika matematika yang memberikan nilai dengan derajat kepercayaan. Dalam prosesnya Fuzzy Logic  akan mengolah data menjadi keputusan yang aturannya ditentukan oleh manusia sehingga terdapat nilai kemanusiaan. 
 
